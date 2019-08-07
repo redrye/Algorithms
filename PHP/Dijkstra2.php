@@ -1,0 +1,5 @@
+<?php
+	$vector = new Vector();
+	
+	
+?>
