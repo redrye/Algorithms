@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../macMon-Bridge-Header.h">
+   </FileRef>
+   <FileRef
+      location = "group:definitions.h">
+   </FileRef>
+   <FileRef
+      location = "self:macMon.xcodeproj">
+   </FileRef>
+</Workspace>
